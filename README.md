@@ -14,7 +14,7 @@ Um projeto de eletrônica chamado de fotocélula, onde tem o intuito de ligar ou
 
 |3D|
 :---:
-|![Visão 3D]![image]![image](https://user-images.githubusercontent.com/111302603/196242345-0a65bdf0-c88e-4c99-93a7-afb5759c7b6e.png)
+|![Visão 3D]![image](https://user-images.githubusercontent.com/111302603/196242345-0a65bdf0-c88e-4c99-93a7-afb5759c7b6e.png)
 
 
 
