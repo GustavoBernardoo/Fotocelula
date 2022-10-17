@@ -16,3 +16,11 @@ Um projeto de eletrônica chamado de fotocélula, onde tem o intuito de ligar ou
 :---:
 |![Visão 3D]![image](https://user-images.githubusercontent.com/105087818/194922487-f7ec766a-2eda-4580-8c12-0d82a698660a.png)
 
+
+Participantes do Projeto:
+
+Gabriel Coelho,
+Gustavo Bernardo,
+João dos Santos,
+Raul Vitor e
+Wesley Lima
