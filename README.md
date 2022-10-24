@@ -9,7 +9,7 @@ Um projeto de eletrônica chamado de fotocélula, onde tem o intuito de ligar ou
 
 |Figura 2: PCB Layout|
 |:---:|
-|![image](image](https://user-images.githubusercontent.com/111302603/197587431-5368d24f-c316-47f4-9562-9046ed481067.png)|
+|![image](https://user-images.githubusercontent.com/111302603/197587431-5368d24f-c316-47f4-9562-9046ed481067.png)|
 |Fonte: Próprio autor|
 
 |Figura 3: 3D|
